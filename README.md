@@ -25,7 +25,7 @@ Sou apaixonado por criar interfaces web interativas e responsivas. Meu objetivo 
 Sinta-se à vontade para entrar em contato ou colaborar em projetos. Estou sempre aberto a novas ideias e parcerias!
 
 - 📫 **Email**: mferreira1502s@gmail.com
-- 🌐 **LinkedIn**: [mariafs15](www.linkedin.com/in/mariafs15)
+- 🌐 **LinkedIn**: (www.linkedin.com/in/mariafs15)
 
 ## Siga-me
 
