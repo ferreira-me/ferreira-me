@@ -1,16 +1,34 @@
-## Hi there 👋
+## Oii, eu sou Maria Eduarda 👋
 
-<!--
-**ferreira-me/ferreira-me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudando e evoluindo em front-end
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender algo novo. Atualmente, estou focado em projetos que envolvem as seguintes linguagens:
+
+- 🌐 **JavaScript**
+- 🎨 **HTML**
+- 🎉 **CSS**
+
+## Sobre Mim
+
+Sou apaixonado por criar interfaces web interativas e responsivas. Meu objetivo é transformar ideias em realidade através da programação. Sempre busco desafios e oportunidades para aprimorar minhas habilidades.
+
+
+## Tecnologias que uso
+
+- 🔧 **Front-end**: JavaScript, HTML, CSS
+- 📦 **Ferramentas**: Git, GitHub, (ou outras ferramentas que você usa)
+
+## Vamos nos conectar!
+
+Sinta-se à vontade para entrar em contato ou colaborar em projetos. Estou sempre aberto a novas ideias e parcerias!
+
+- 📫 **Email**: mferreira1502s@gmail.com
+- 🌐 **LinkedIn**: [mariafs15](www.linkedin.com/in/mariafs15)
+
+## Siga-me
+
+Se você gosta do que vê, não esqueça de seguir meu perfil! Estou sempre atualizando com novos projetos e aprendizados.
+
+Obrigado pela visita! 🚀
