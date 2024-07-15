@@ -2,8 +2,6 @@
 
 - 🌱 Estudando e evoluindo em front-end
 
--->
-
 Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender algo novo. Atualmente, estou focado em projetos que envolvem as seguintes linguagens:
 
 - 🌐 **JavaScript**
