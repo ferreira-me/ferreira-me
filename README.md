@@ -16,7 +16,7 @@ Sou apaixonado por criar interfaces web interativas e responsivas. Meu objetivo 
 ## Tecnologias que uso
 
 - 🔧 **Front-end**: JavaScript, HTML, CSS
-- 📦 **Ferramentas**: Git, GitHub, (ou outras ferramentas que você usa)
+- 📦 **Ferramentas**: Git, GitHub
 
 ## Vamos nos conectar!
 
