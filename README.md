@@ -6,7 +6,7 @@ Bem-vindo ao meu perfil! Sou **Analista de Desenvolvimento de Sistemas** e apaix
 ## 🚀 Tecnologias e Habilidades  
 - 💻 **Linguagens**: Python, TypeScript, JavaScript, CSS  
 - 🌐 **Front-end**: React  
-- 🛠️ **No-Code/Low-Code**: Make, FlutterFlow, UiPath, n8n  
+- 🛠️ **No-Code/Low-Code**: Make, FlutterFlow, n8n  
 - 🗄️ **Banco de Dados**: PostgreSQL, MySQL  
 - 📊 **Análise de Dados**: Looker Studio, BigQuery  
 
