@@ -1,32 +1,26 @@
-## Oii, eu sou Maria Eduarda 👋
+# Oii, eu sou Maria Eduarda 👋  
 
-- 🌱 Estudando e evoluindo em front-end
+🌱 Sempre aprendendo e evoluindo no mundo da tecnologia!  
+Bem-vindo ao meu perfil! Sou **Analista de Desenvolvimento de Sistemas** e apaixonada por tecnologia, sempre buscando aprender algo novo e criar soluções eficientes. Atualmente, estudo **Desenvolvimento de Software Multiplataforma na FATEC**.  
 
-Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender algo novo. Atualmente, estou focado em projetos que envolvem as seguintes linguagens:
+## 🚀 Tecnologias e Habilidades  
+- 💻 **Linguagens**: Python, TypeScript, JavaScript, CSS  
+- 🌐 **Front-end**: React  
+- 🛠️ **No-Code/Low-Code**: Make, FlutterFlow, UiPath, n8n  
+- 🗄️ **Banco de Dados**: PostgreSQL, MySQL  
+- 📊 **Análise de Dados**: Looker Studio, BigQuery  
 
-- 🌐 **JavaScript**
-- 🎨 **HTML**
-- 🎉 **CSS**
+## ✨ Sobre Mim  
+Gosto de transformar ideias em realidade através do código e da automação. Atualmente, estou focada em projetos que envolvem **desenvolvimento web, automação de processos e análise de dados**. Busco sempre novas oportunidades e desafios para aprimorar minhas habilidades!  
 
-## Sobre Mim
+## 🎓 Formação  
+📚 **FATEC** – Desenvolvimento de Software Multiplataforma  
 
-Sou apaixonado por criar interfaces web interativas e responsivas. Meu objetivo é transformar ideias em realidade através da programação. Sempre busco desafios e oportunidades para aprimorar minhas habilidades.
+## 🤝 Vamos nos Conectar!  
+📫 **Email**: mferreira1502s@gmail.com  
+🌐 **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mariafs15)  
 
-
-## Tecnologias que uso
-
-- 🔧 **Front-end**: JavaScript, HTML, CSS
-- 📦 **Ferramentas**: Git, GitHub
-
-## Vamos nos conectar!
-
-Sinta-se à vontade para entrar em contato ou colaborar em projetos. Estou sempre aberto a novas ideias e parcerias!
-
-- 📫 **Email**: mferreira1502s@gmail.com
-- 🌐 **LinkedIn**: (www.linkedin.com/in/mariafs15)
-
-## Siga-me
-
-Se você gosta do que vê, não esqueça de seguir meu perfil! Estou sempre atualizando com novos projetos e aprendizados.
+Se curtiu meu trabalho, não esqueça de seguir!  
+Estou sempre atualizando com novos projetos e aprendizados.  
 
 Obrigado pela visita! 🚀
