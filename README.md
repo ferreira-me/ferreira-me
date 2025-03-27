@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil! Sou **Analista de Desenvolvimento de Sistemas** e apaix
 - 🌐 **Front-end**: React  
 - 🛠️ **No-Code/Low-Code**: Make, FlutterFlow, n8n  
 - 🗄️ **Banco de Dados**: PostgreSQL, MySQL  
-- 📊 **Análise de Dados**: Looker Studio, BigQuery  
+- 📊 **Análise de Dados**: Looker Studio
 
 ## ✨ Sobre Mim  
 Gosto de transformar ideias em realidade através do código e da automação. Atualmente, estou focada em projetos que envolvem **desenvolvimento web, automação de processos e análise de dados**. Busco sempre novas oportunidades e desafios para aprimorar minhas habilidades!  
